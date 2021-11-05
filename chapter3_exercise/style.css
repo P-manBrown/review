@@ -15,4 +15,7 @@
 
 div {
   color: aliceblue;
+  font-style: bold;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: larger;
 }
