@@ -20,4 +20,5 @@ div {
   font-size: larger;
   display: block;
   flex-direction: column;
+  font: 1em sans-serif;
 }
