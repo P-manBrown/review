@@ -12,13 +12,3 @@
   background-color: blue;
   border: 5px solid yellow;
 }
-
-div {
-  color: aliceblue;
-  font-style: bold;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  font-size: larger;
-  display: block;
-  flex-direction: column;
-  font: 1em sans-serif;
-}
