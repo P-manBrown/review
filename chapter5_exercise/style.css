@@ -3,3 +3,18 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.heading {
+  text-align: center;
+  margin: 20px 0px;
+}
+
+nav {
+  border-top: solid 1px black;
+  border-bottom: solid 1px black;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: center;
+}
